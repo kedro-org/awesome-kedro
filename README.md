@@ -10,6 +10,8 @@
 - [Utilities](#utilities)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
+- [Documentation](#documentation)
+- [Community](#community)
 
 ## [Plugins](https://kedro.readthedocs.io/en/stable/07_extend_kedro/05_plugins.html)
 
@@ -52,3 +54,12 @@
 - [How to Lazily Evaluate Chunks of a Big Pandas DataFrame](https://www.youtube.com/watch?v=cbZ4cxCtLZc)
 - [How to Setup PySpark for your Kedro Pipeline](https://www.youtube.com/watch?v=vYBMpPZep6E)
 - [Kedro Great: Use Great Expectations with Ease!](https://www.youtube.com/watch?v=VY_AO0__oIE) - Show how to use kedro-great to e.g. validate data container meta data (columns, etc.).
+
+## Documentation
+
+- [Documentation](kedro.readthedocs.io)
+
+## Community
+
+- [Forum](https://discourse.kedro.community/)
+- [Stackoverflow (tag:kedro)](https://stackoverflow.com/questions/tagged/kedro)
