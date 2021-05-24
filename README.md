@@ -46,6 +46,10 @@
 - [Kedro (Python template for production-quality ML data pipelines)](https://wilsonmar.github.io/kedro/)
 - [kedro-inputs](https://waylonwalker.com/kedro-inputs/) - How Kedro handles your inputs
 - [kedro-preflight-hook](https://waylonwalker.com/creating-the-kedro-preflight-hook/) - Creating the kedro-preflight hook
+- [Enhance your kedro experiences with these tips](https://towardsdatascience.com/enhance-your-kedro-experiences-with-these-tips-3036c3b7564)
+- [Kedro: The Best Python Framework for Data Science!!](https://jlgjosue.medium.com/kedro-the-best-python-framework-for-data-science-fda6d8503646)
+- [kedro-in-6-months](https://towardsdatascience.com/kedro-6-months-in-138c27aed13b)
+- [Kedro hands-on](https://towardsdatascience.com/kedro-hands-on-build-your-own-demographics-atlas-pt-2-building-footprints-classification-8c48060e5c1a) Build your own demographics atlas. Pt. 2: building footprints classification
 - [Kedro: A New Tool For Data Science](https://towardsdatascience.com/kedro-prepare-to-pimp-your-pipeline-f8f68c263466)
 - [Deploying and Versioning Data Pipelines at Scale](https://medium.com/quantumblack/deploying-and-versioning-data-pipelines-at-scale-942b1d81b5f5)
 
