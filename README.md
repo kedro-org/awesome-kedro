@@ -33,7 +33,19 @@
 
 ## Blog posts
 
+- [kedro-in-scripts](https://waylonwalker.com/kedro-in-scripts/) - Getting started with Kedro in a single script
+- [kedro-silence](https://waylonwalker.com/kedro-silence/) - Setting all kedro logs for clean output
+- [pipeline-registry](https://waylonwalker.com/kedro-pipeline-registry/) - Converting from hooks.py to pipeline_registry, what you need to know.
+- [minimal-pipeline](https://waylonwalker.com/minimal-kedro-pipeline/) - The minimal pipeline package (just pipeline no catalog or runner)
+- [kedro-pickle](https://waylonwalker.com/kedro-pickle/) - How to use Kedro when your data is not a table.
+- [reasons-to-kedro](https://waylonwalker.com/reasons-to-kedro/) - Reasons to consider using Kedro.
+- [whats-new-in-kedro-166](https://waylonwalker.com/whats-new-in-kedro-0166/) - What's new in Kedro 0.16.6
+- [whats-new-in-kedro-164](https://waylonwalker.com/whats-new-in-kedro-0164/) - What's new in Kedro 0.16.4
+- [graceful-catalog](https://waylonwalker.com/graceful-kedro-catalog/) - Gracefully adopt the Kedro catalog in a non-Kedro project
+- [kedro-catalog-search](https://waylonwalker.com/kedro-catalog-search/) - How to find entries in your Kedro catalog
 - [Kedro (Python template for production-quality ML data pipelines)](https://wilsonmar.github.io/kedro/)
+- [kedro-inputs](https://waylonwalker.com/kedro-inputs/) - How Kedro handles your inputs
+- [kedro-preflight-hook](https://waylonwalker.com/creating-the-kedro-preflight-hook/) - Creating the kedro-preflight hook
 - [Kedro: A New Tool For Data Science](https://towardsdatascience.com/kedro-prepare-to-pimp-your-pipeline-f8f68c263466)
 - [Deploying and Versioning Data Pipelines at Scale](https://medium.com/quantumblack/deploying-and-versioning-data-pipelines-at-scale-942b1d81b5f5)
 
