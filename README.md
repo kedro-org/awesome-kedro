@@ -33,7 +33,32 @@
 
 ## Blog posts
 
+- [kedro-in-scripts](https://waylonwalker.com/kedro-in-scripts/) - Getting started with Kedro in a single script
+- [kedro-silence](https://waylonwalker.com/kedro-silence/) - Setting all kedro logs for clean output
+- [pipeline-registry](https://waylonwalker.com/kedro-pipeline-registry/) - Converting from hooks.py to pipeline_registry, what you need to know.
+- [minimal-pipeline](https://waylonwalker.com/minimal-kedro-pipeline/) - The minimal pipeline package (just pipeline no catalog or runner)
+- [kedro-pickle](https://waylonwalker.com/kedro-pickle/) - How to use Kedro when your data is not a table.
+- [reasons-to-kedro](https://waylonwalker.com/reasons-to-kedro/) - Reasons to consider using Kedro.
+- [whats-new-in-kedro-166](https://waylonwalker.com/whats-new-in-kedro-0166/) - What's new in Kedro 0.16.6
+- [whats-new-in-kedro-164](https://waylonwalker.com/whats-new-in-kedro-0164/) - What's new in Kedro 0.16.4
+- [graceful-catalog](https://waylonwalker.com/graceful-kedro-catalog/) - Gracefully adopt the Kedro catalog in a non-Kedro project
+- [kedro-catalog-search](https://waylonwalker.com/kedro-catalog-search/) - How to find entries in your Kedro catalog
 - [Kedro (Python template for production-quality ML data pipelines)](https://wilsonmar.github.io/kedro/)
+- [kedro-inputs](https://waylonwalker.com/kedro-inputs/) - How Kedro handles your inputs
+- [kedro-preflight-hook](https://waylonwalker.com/creating-the-kedro-preflight-hook/) - Creating the kedro-preflight hook
+- [Enhance your kedro experiences with these tips](https://towardsdatascience.com/enhance-your-kedro-experiences-with-these-tips-3036c3b7564)
+- [Kedro: The Best Python Framework for Data Science!!](https://jlgjosue.medium.com/kedro-the-best-python-framework-for-data-science-fda6d8503646)
+- [kedro-in-6-months](https://towardsdatascience.com/kedro-6-months-in-138c27aed13b)
+- [Kedro hands-on](https://towardsdatascience.com/kedro-hands-on-build-your-own-demographics-atlas-pt-2-building-footprints-classification-8c48060e5c1a) Build your own demographics atlas. Pt. 2: building footprints classification
+- [The latest and greatest in Kedro — We’re growing our community](https://quantumblack.medium.com/the-latest-and-greatest-in-kedro-were-growing-our-community-c868825b0cb4)
+- [Kedro-Airflow 0.4.0 — Orchestrating Kedro Pipelines with Airflow](https://medium.com/quantumblack/kedro-airflow-0-4-0-orchestrating-kedro-pipelines-with-airflow-23fb1283f24d)
+- [Unboxing Kedro 0.17.0 and Kedro-Viz 3.8.0 🎁](https://medium.com/quantumblack/unboxing-kedro-0-17-0-and-kedro-viz-3-8-0-dfdbdb024289)
+- [Beyond the Notebook and into the Data Science Framework Revolution](https://medium.com/quantumblack/beyond-the-notebook-and-into-the-data-science-framework-revolution-a7fd364ab9c4)
+- [Element AI uses Kedro to apply research and develop enterprise AI models](https://medium.com/quantumblack/element-ai-uses-kedro-to-apply-research-and-develop-enterprise-ai-models-bbbf2e3ff722)
+- [Introducing Kedro Hooks](https://medium.com/quantumblack/introducing-kedro-hooks-fd5bc4c03ff5)
+- [New in Kedro this Month!](https://medium.com/quantumblack/new-in-kedro-this-month-991a1fb50cb4)
+- [Getting Started with Kedro](https://medium.com/quantumblack/getting-started-with-kedro-67edcc316f6a)
+- [Introducing Kedro](https://medium.com/quantumblack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf) - The Open Source Library for Production-Ready Machine Learning Code
 - [Kedro: A New Tool For Data Science](https://towardsdatascience.com/kedro-prepare-to-pimp-your-pipeline-f8f68c263466)
 - [Deploying and Versioning Data Pipelines at Scale](https://medium.com/quantumblack/deploying-and-versioning-data-pipelines-at-scale-942b1d81b5f5)
 
