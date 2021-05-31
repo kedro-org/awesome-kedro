@@ -32,7 +32,8 @@
 - [steel-toes](https://pypi.org/project/steel-toes/) - Prevent changing downstream catalog data on your teammates while developing in parallel.
 
 ## Blog posts
-
+- [how-to-inject-secrets-into-your-kedro-configuration](https://kedrozerotohero.com/programming-patterns/how-to-inject-secrets-into-your-kedro-configuration)
+- [define-data-catalog-using-python](https://kedrozerotohero.com/experiments/define-data-catalog-using-python)
 - [kedro-in-scripts](https://waylonwalker.com/kedro-in-scripts/) - Getting started with Kedro in a single script
 - [kedro-silence](https://waylonwalker.com/kedro-silence/) - Setting all kedro logs for clean output
 - [pipeline-registry](https://waylonwalker.com/kedro-pipeline-registry/) - Converting from hooks.py to pipeline_registry, what you need to know.
