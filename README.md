@@ -25,6 +25,7 @@
 - [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
 - [kedro-viz](https://pypi.org/project/kedro-viz/) - Helps visualise Kedro data and analytics pipelines.
 - [kedro-wings](https://pypi.org/project/kedro-wings/) - Automatically creates catalog entries to simplify Kedro pipeline writing.
+- [find-kedro](https://github.com/WaylonWalker/find-kedro) - Automatically construct pipelines using pytest style pattern matching.
 
 ## Utilities
 
