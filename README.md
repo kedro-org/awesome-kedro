@@ -89,8 +89,7 @@
 
 ## Community
 
-- [Forum](https://discourse.kedro.community/)
+- [GitHub Discussions](https://github.com/kedro-org/kedro/discussions/)
 - [Stackoverflow (tag:kedro)](https://stackoverflow.com/questions/tagged/kedro)
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
 - [#kedro](https://dev.to/t/kedro) tag on dev.to
-- [kedro-community](https://github.com/quantumblacklabs/kedro-community) github repo
