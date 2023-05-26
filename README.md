@@ -6,12 +6,24 @@
 
 ## Contents
 
+- [Example projects](#projects)
 - [Plugins](#plugins)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
   - [Intros](#intros)
   - [Howtos](#howtos)
 - [Support](#support)
+
+## Projects
+
+- [Response Recommendation System for BarefootLaw](https://github.com/dssg/barefoot-winnie-public) by Kasun Amarasinghe, Carlos Caro, Nupoor Gandhi and Raphaelle Roffo, an extensive Data Science for Social Good (DSSG) at Imperial College London project that recommends responses to law related queries
+- [Augury](https://github.com/tipresias/augury) by [Craig Franklin](https://github.com/cfranklin11), machine-learning functionality for predicting AFL match results in the Tipresias app
+- [CausalLift](https://github.com/Minyus/causallift) by [Yusuke Minami](https://github.com/Minyus), a Python package for Uplift Modeling in real-world business
+- [PipelineX](https://github.com/Minyus/pipelinex) by [Yusuke Minami](https://github.com/Minyus), a Python package to develop pipelines for rapid Machine/Deep Learning experimentation using Kedro and MLflow. Example projects using PyTorch, Pandas, and OpenCV are available.
+- [kedro-mlflow-example](https://github.com/tgoldenberg/kedro-mlflow-example) by [Tom Goldenberg](https://github.com/tgoldenberg), a project that demonstrates how to integrate MLflow with a Kedro codebase
+- [kedro-wdbc-tf](https://github.com/abhinavsp0730/kedro-wdbc-tf) by [Abhinav Prakash](https://github.com/abhinavsp0730), this project uses a Kedro template to create Deep Learning workflow. The model training was done with TensorFlow  against the wdbc (Breast Cancer) dataset.
+- [twitter-sentiment-analysis](https://github.com/aviagarwal1212/twitter-sentiment-analysis/blob/main/README.md) by [Avi Agarwal](https://github.com/aviagarwal1212), a project that demonstrates how to use Kedro to train and evaluate an NLP-based machine learning model.
+- [Anomaly Detection Pipeline with Kedro](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) by [Kenneth Leung](https://github.com/kennethleungty), a project that demonstrates how to use Kedro for fraud detection on credit card transaction data using an Isolation Forest machine learning model.
 
 ## [Plugins](https://kedro.readthedocs.io/en/stable/07_extend_kedro/05_plugins.html)
 
