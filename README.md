@@ -15,26 +15,33 @@
 
 ## [Plugins](https://kedro.readthedocs.io/en/stable/07_extend_kedro/05_plugins.html)
 
+- [find-kedro](https://github.com/WaylonWalker/find-kedro) - Automatically construct pipelines using pytest style pattern matching.
 - [kedro-accelerator](https://github.com/deepyaman/kedro-accelerator/) - Speeds up pipelines by parallelizing I/O in the background.
 - [kedro-airflow](https://pypi.org/project/kedro-airflow/) - Makes it easy to deploy Kedro projects to Airflow.
+- [kedro-airflow-k8s](https://github.com/getindata/kedro-airflow-k8s) - Enables running a Kedro pipeline with Airflow on a Kubernetes cluster.
 - [kedro-argo](https://pypi.org/project/kedro-argo/) - Converts Kedro pipelines to Argo pipelines.
+- [kedro-auto-catalog](https://github.com/WaylonWalker/kedro-auto-catalog) - A configurable replacement for kedro catalog create that allows you to create default dataset types other than `MemoryDataset`.
+- [kedro-azureml](https://github.com/getindata/kedro-azureml) - Enables running a Kedro pipeline with Azure ML Pipelines service.
+- [kedro-dataframe-dropin](https://github.com/mzjp2/kedro-dataframe-dropin) - Lets you swap out pandas datasets for modin or RAPIDs equivalents for specialised use to speed up your workflows (e.g on GPUs).
+- [kedro-datasets](https://github.com/kedro-org/kedro-plugins/tree/main/kedro-datasets) - A collection of Kedro data connectors.
 - [kedro-docker](https://pypi.org/project/kedro-docker/) - Makes it easy to package Kedro projects with Docker.
+- [kedro-dolt](https://www.dolthub.com/blog/2021-06-16-kedro-dolt-plugin/) - Allows you to expand the data versioning abilities of data scientists and engineers
 - [kedro-great](https://github.com/tamsanh/kedro-great) - The easiest way to integrate Kedro and Great Expectations.
 - [kedro-grpc-server](https://pypi.org/project/kedro-grpc-server/) - Creates a gRPC server for your kedro pipelines.
+- [kedro-kubeflow](https://github.com/getindata/kedro-kubeflow) - Lets you run and schedule pipelines on Kubernetes clusters using Kubeflow Pipelines.
 - [kedro-mlflow](https://pypi.org/project/kedro-mlflow/) - Allows usage of MLFlow in Kedro projects.
+- [kedro-neptune](https://github.com/neptune-ai/kedro-neptune) - Integration of Kedro with Neptune.ai.
 - [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
+- [kedro-partitioned](https://github.com/ProjetaAi/kedro-partitioned) - Extends the functionality on processing partitioned data.
+- [kedro-sagemaker](https://github.com/getindata/kedro-sagemaker) - Enables running a Kedro pipeline with Amazon SageMaker service.
+- [kedro-static-viz](https://github.com/WaylonWalker/kedro-static-viz) - Generates a static Kedro-Viz site (HTML, CSS, JS)
 - [kedro-viz](https://pypi.org/project/kedro-viz/) - Helps visualise Kedro data and analytics pipelines.
-- [kedro-wings](https://pypi.org/project/kedro-wings/) - Automatically creates catalog entries to simplify Kedro pipeline writing.
-- [find-kedro](https://github.com/WaylonWalker/find-kedro) - Automatically construct pipelines using pytest style pattern matching.
+- [kedro-vertexai](https://github.com/getindata/kedro-vertexai) - Enables running a Kedro pipeline with Vertex AI Pipelines service.
+- [kedro-wings](https://pypi.org/project/kedro-wings/) - Automatically creates catalog entries to simplify Kedro pipeline writing.- [more-kedro](https://pypi.org/project/more-kedro/) - (Hook) library for on the fly typing and validation of parameter dictionaries and default value backed data loading.
+- [steel-toes](https://pypi.org/project/steel-toes/) - Prevent changing downstream catalog data on your teammates while developing in parallel.
 
 For more:
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
-
-## Utilities
-
-- [find-kedro](https://pypi.org/project/find-kedro/) - CLI tool ẃhich finds nodes for pipelines.
-- [more-kedro](https://pypi.org/project/more-kedro/) - (Hook) library for on the fly typing and validation of parameter dictionaries and default value backed data loading.
-- [steel-toes](https://pypi.org/project/steel-toes/) - Prevent changing downstream catalog data on your teammates while developing in parallel.
 
 ## Blog posts
 - [how-to-inject-secrets-into-your-kedro-configuration](https://kedrozerotohero.com/programming-patterns/how-to-inject-secrets-into-your-kedro-configuration)
