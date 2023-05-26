@@ -27,6 +27,9 @@
 - [kedro-wings](https://pypi.org/project/kedro-wings/) - Automatically creates catalog entries to simplify Kedro pipeline writing.
 - [find-kedro](https://github.com/WaylonWalker/find-kedro) - Automatically construct pipelines using pytest style pattern matching.
 
+For more:
+- [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
+
 ## Utilities
 
 - [find-kedro](https://pypi.org/project/find-kedro/) - CLI tool ẃhich finds nodes for pipelines.
@@ -65,6 +68,9 @@
 - [Kedro: A New Tool For Data Science](https://towardsdatascience.com/kedro-prepare-to-pimp-your-pipeline-f8f68c263466)
 - [Deploying and Versioning Data Pipelines at Scale](https://medium.com/quantumblack/deploying-and-versioning-data-pipelines-at-scale-942b1d81b5f5)
 
+For more:
+- [#kedro](https://dev.to/t/kedro) tag on dev.to
+
 ## Videos
 
 ### Intros
@@ -87,9 +93,8 @@
 
 - [Documentation](kedro.readthedocs.io)
 
-## Community
+## Support
 
 - [GitHub Discussions](https://github.com/kedro-org/kedro/discussions/)
 - [Stackoverflow (tag:kedro)](https://stackoverflow.com/questions/tagged/kedro)
-- [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
-- [#kedro](https://dev.to/t/kedro) tag on dev.to
+- [Slack](https://kedro-org.slack.com/) ([invite link](https://slack.kedro.org))
