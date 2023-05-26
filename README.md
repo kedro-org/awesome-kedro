@@ -25,7 +25,7 @@
 - [twitter-sentiment-analysis](https://github.com/aviagarwal1212/twitter-sentiment-analysis/blob/main/README.md) by [Avi Agarwal](https://github.com/aviagarwal1212), a project that demonstrates how to use Kedro to train and evaluate an NLP-based machine learning model.
 - [Anomaly Detection Pipeline with Kedro](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) by [Kenneth Leung](https://github.com/kennethleungty), a project that demonstrates how to use Kedro for fraud detection on credit card transaction data using an Isolation Forest machine learning model.
 
-## [Plugins](https://kedro.readthedocs.io/en/stable/07_extend_kedro/05_plugins.html)
+## [Plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
 - [find-kedro](https://github.com/WaylonWalker/find-kedro) - Automatically construct pipelines using pytest style pattern matching.
 - [kedro-accelerator](https://github.com/deepyaman/kedro-accelerator/) - Speeds up pipelines by parallelizing I/O in the background.
