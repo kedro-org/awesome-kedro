@@ -89,10 +89,6 @@ For more:
 - [How to Setup PySpark for your Kedro Pipeline](https://www.youtube.com/watch?v=vYBMpPZep6E)
 - [Kedro Great: Use Great Expectations with Ease!](https://www.youtube.com/watch?v=VY_AO0__oIE) - Show how to use kedro-great to e.g. validate data container meta data (columns, etc.).
 
-## Documentation
-
-- [Documentation](kedro.readthedocs.io)
-
 ## Support
 
 - [GitHub Discussions](https://github.com/kedro-org/kedro/discussions/)
