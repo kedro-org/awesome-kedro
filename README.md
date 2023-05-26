@@ -2,7 +2,7 @@
 
 <div align="center"><img width="500" src="kedro_icon_no-type_whitebg.svg" alt="kedro logo"></div>
 
-> A framework for creating reproducible, maintainable and modular data science code.
+> An opinionated Python framework for creating reproducible, maintainable and modular data science code.
 
 ## Contents
 
