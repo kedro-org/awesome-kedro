@@ -7,11 +7,11 @@
 ## Contents
 
 - [Plugins](#plugins)
-- [Utilities](#utilities)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
-- [Documentation](#documentation)
-- [Community](#community)
+  - [Intros](#intros)
+  - [Howtos](#howtos)
+- [Support](#support)
 
 ## [Plugins](https://kedro.readthedocs.io/en/stable/07_extend_kedro/05_plugins.html)
 
