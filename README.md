@@ -1,6 +1,6 @@
 # Awesome Kedro [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) 
 
-<div align="center"><img width="500" src="kedro_icon_no-type_whitebg.svg" alt="kedro logo"></div>
+<div align="center"><img width="500" src="kedro_banner.png" alt="kedro logo"></div>
 
 > An opinionated Python framework for creating reproducible, maintainable and modular data science code.
 
