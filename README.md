@@ -119,6 +119,7 @@ For more:
 - [Enhance your kedro experiences with these tips](https://towardsdatascience.com/enhance-your-kedro-experiences-with-these-tips-3036c3b7564)
 - [Kedro: The Best Python Framework for Data Science!!](https://jlgjosue.medium.com/kedro-the-best-python-framework-for-data-science-fda6d8503646)
 - [kedro-in-6-months](https://towardsdatascience.com/kedro-6-months-in-138c27aed13b)
+- [Deploying a Recommendation System the Kedro Way](https://itstherealdyl.com/2022/03/29/deploying-a-recommendation-system-the-kedro-way/)
 
 For more:
 - [#kedro](https://dev.to/t/kedro) tag on dev.to
