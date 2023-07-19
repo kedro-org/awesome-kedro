@@ -51,6 +51,7 @@
 - [kedro-vertexai](https://github.com/getindata/kedro-vertexai) - Enables running a Kedro pipeline with Vertex AI Pipelines service.
 - [kedro-wings](https://pypi.org/project/kedro-wings/) - Automatically creates catalog entries to simplify Kedro pipeline writing.- [more-kedro](https://pypi.org/project/more-kedro/) - (Hook) library for on the fly typing and validation of parameter dictionaries and default value backed data loading.
 - [steel-toes](https://pypi.org/project/steel-toes/) - Prevent changing downstream catalog data on your teammates while developing in parallel.
+- [vineyard-kedro](https://pypi.org/project/vineyard-kedro) - Custom `DataSet` and `Runner` which enables sharing intermediate data between tasks in Kedro pipelines using Vineyard, a cloud-native in-memory object manager.
 
 For more:
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
@@ -120,6 +121,7 @@ For more:
 - [Kedro: The Best Python Framework for Data Science!!](https://jlgjosue.medium.com/kedro-the-best-python-framework-for-data-science-fda6d8503646)
 - [kedro-in-6-months](https://towardsdatascience.com/kedro-6-months-in-138c27aed13b)
 - [Deploying a Recommendation System the Kedro Way](https://itstherealdyl.com/2022/03/29/deploying-a-recommendation-system-the-kedro-way/)
+- [Efficient Data Sharing in Data Science Pipelines on Kubernetes](https://medium.com/cncf-vineyard/efficient-data-sharing-in-data-science-pipelines-on-kubernetes-bb42d36c739)
 
 For more:
 - [#kedro](https://dev.to/t/kedro) tag on dev.to
