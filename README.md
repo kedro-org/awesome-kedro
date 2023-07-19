@@ -16,6 +16,7 @@
 
 ## Projects
 
+- [Churn Prediction with Kedro](https://github.com/laizaparizotto/churn-prediction-kedro) by [Laíza Parizotto](https://github.com/laizaparizotto), a project that tackles a data science challenge of predicting customer churn for a fictional financial institution, using Kedro to build an effective pipeline for a production-ready machine learning model.
 - [Response Recommendation System for BarefootLaw](https://github.com/dssg/barefoot-winnie-public) by Kasun Amarasinghe, Carlos Caro, Nupoor Gandhi and Raphaelle Roffo, an extensive Data Science for Social Good (DSSG) at Imperial College London project that recommends responses to law related queries
 - [Augury](https://github.com/tipresias/augury) by [Craig Franklin](https://github.com/cfranklin11), machine-learning functionality for predicting AFL match results in the Tipresias app
 - [CausalLift](https://github.com/Minyus/causallift) by [Yusuke Minami](https://github.com/Minyus), a Python package for Uplift Modeling in real-world business
