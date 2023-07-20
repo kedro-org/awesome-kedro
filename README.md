@@ -47,6 +47,7 @@
 - [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
 - [kedro-partitioned](https://github.com/ProjetaAi/kedro-partitioned) - Extends the functionality on processing partitioned data.
 - [kedro-sagemaker](https://github.com/getindata/kedro-sagemaker) - Enables running a Kedro pipeline with Amazon SageMaker service.
+- [kedro-snowflake]([https://github.com/getindata/kedro-sagemaker](https://github.com/getindata/kedro-snowflake)) - Enables to run full Kedro pipelines in Snowflake.
 - [kedro-static-viz](https://github.com/WaylonWalker/kedro-static-viz) - Generates a static Kedro-Viz site (HTML, CSS, JS)
 - [kedro-viz](https://pypi.org/project/kedro-viz/) - Helps visualise Kedro data and analytics pipelines.
 - [kedro-vertexai](https://github.com/getindata/kedro-vertexai) - Enables running a Kedro pipeline with Vertex AI Pipelines service.
@@ -123,6 +124,9 @@ For more:
 - [kedro-in-6-months](https://towardsdatascience.com/kedro-6-months-in-138c27aed13b)
 - [Deploying a Recommendation System the Kedro Way](https://itstherealdyl.com/2022/03/29/deploying-a-recommendation-system-the-kedro-way/)
 - [Efficient Data Sharing in Data Science Pipelines on Kubernetes](https://medium.com/cncf-vineyard/efficient-data-sharing-in-data-science-pipelines-on-kubernetes-bb42d36c739)
+- [Deep Learning with Azure: PyTorch distributed training done right in Kedro](https://getindata.com/blog/deep-learning-with-azure-pytorch-distributed-training-done-right-kedro/)
+- [Running Machine Learning Pipelines with Kedro, Kubeflow and Airflow ](https://getindata.com/blog/running-machine-learning-pipelines-kedro-kubeflow-airflow/)
+- [Running Kedro… everywhere? Machine Learning Pipelines on Kubeflow, Vertex AI, Azure and Airflow](https://getindata.com/blog/running-kedro-everywhere-machine-learning-pipelines-kubeflow-vertex-ai-azure-airflow/)
 
 For more:
 - [#kedro](https://dev.to/t/kedro) tag on dev.to
@@ -150,6 +154,10 @@ For more:
 - [How to Lazily Evaluate Chunks of a Big Pandas DataFrame](https://www.youtube.com/watch?v=cbZ4cxCtLZc)
 - [How to Setup PySpark for your Kedro Pipeline](https://www.youtube.com/watch?v=vYBMpPZep6E)
 - [Kedro Great: Use Great Expectations with Ease!](https://www.youtube.com/watch?v=VY_AO0__oIE) - Show how to use kedro-great to e.g. validate data container meta data (columns, etc.).
+- [Run machine learning pipelines on ❄ Snowflake using Kedro 🔧 MLOPS TUTORIAL](https://www.youtube.com/watch?v=mUyD2fJRvRU)
+- [Kedro + PyTorch. MLOps TUTORIAL by Marcin Zabłocki](https://www.youtube.com/watch?v=u2hRsCSDcQ8)
+- [Kedro + AWS SageMaker TUTORIAL](https://www.youtube.com/watch?v=yXIdz4kNMc8)
+- [How to run Kedro pipelines on Azure ML Pipelines service? - MLOPS TUTORIAL - Marcin Zabłocki](https://www.youtube.com/watch?v=w_9RzYpGplY)
 
 For more:
 - [@kedro-python on YouTube](https://www.youtube.com/@kedro-python)
