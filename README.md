@@ -27,8 +27,6 @@
 - [Videos](#videos)
   - [Intros](#intros)
   - [Howtos](#howtos)
-  - [News](#news)
-
 
 ## Awards and highlights
 * Kedro won [Best Technical Tool or Framework for AI](https://awards.ai/the-awards/previous-awards/the-4th-ai-award-winners/) in the 2019 Awards AI competition 
@@ -232,9 +230,6 @@ For more:
 - [Kedro + PyTorch. MLOps TUTORIAL by Marcin Zabłocki](https://www.youtube.com/watch?v=u2hRsCSDcQ8)
 - [Kedro + AWS SageMaker TUTORIAL](https://www.youtube.com/watch?v=yXIdz4kNMc8)
 - [How to run Kedro pipelines on Azure ML Pipelines service? - MLOPS TUTORIAL - Marcin Zabłocki](https://www.youtube.com/watch?v=w_9RzYpGplY)
-
-### Other 
-
 - [Kedro Community Update - April 2023](https://www.youtube.com/watch?v=ACwLKx8TEXc) - Kedro 0.18.7, new `OmegaConfigLoader`, experiment tracking in Kedro Viz, improvements in Databricks workflow, and more.
 - [Let's look at Kedro 0.17.0!](https://www.youtube.com/watch?v=AVX31IVbpoE)
 - [Kedro 0.16.0 was just Released!](https://www.youtube.com/watch?v=HxU6SL14jc4) - Release notes (features) of Kedro 0.16.0 explained.
