@@ -4,7 +4,7 @@
 
 > An opinionated Python framework for creating reproducible, maintainable and modular data science code.
 
-[![Python version](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue.svg)](https://pypi.org/project/kedro/)
+[![Python version](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue.svg)](https://pypi.org/project/kedro/)
 [![PyPI version](https://badge.fury.io/py/kedro.svg)](https://pypi.org/project/kedro/)
 [![Conda version](https://img.shields.io/conda/vn/conda-forge/kedro.svg)](https://anaconda.org/conda-forge/kedro)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/kedro-org/kedro/blob/main/LICENSE.md)
@@ -16,6 +16,10 @@
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6711/badge)](https://bestpractices.coreinfrastructure.org/projects/6711)
 [![Monthly downloads](https://static.pepy.tech/badge/kedro/month)](https://pepy.tech/project/kedro)
 [![Total downloads](https://static.pepy.tech/badge/kedro)](https://pepy.tech/project/kedro)
+
+This is an open-source repository to collect together anything related to Kedro such as blog posts, example projects, plugins, videos, and more. 
+
+**Got something to include?** Add your own work to the relevant section with a PR.
 
 ## Contents
 
