@@ -204,7 +204,9 @@ For more:
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
 
 ## Videos
+
 ### Intros
+
 - [What is Kedro? Why is it useful? A Non-Technical Intro to Kedro](https://www.youtube.com/watch?v=dAtZiyQeN8Y) - An intro for management people.
 - [PyConUS 20201 - Reproducible and maintainable data science code with Kedro](https://www.youtube.com/watch?v=JLTYNPoK7nw)
 - [Principled Data Science Workflows](https://youtu.be/Dx2vG6qmtPs)
@@ -213,6 +215,7 @@ For more:
 - [Data Science Best Practices con Kedro](https://youtu.be/_0kMmRfltE) (Spanish)
 
 ### Howtos
+
 - [Refactor your Jupyter notebooks using Kedro](https://www.youtube.com/watch?v=qClSGY6B0r0)
 - [Introduction to Kedro training with Joel Schwarzmann](https://www.youtube.com/watch?v=NU7LmDZGb6E)
 - [Creating Shared Catalogs for your Kedro Projects on GitHub](https://www.youtube.com/watch?v=GwSj64Uqnhk)
@@ -232,6 +235,7 @@ For more:
 - [@kedro-python on YouTube](https://www.youtube.com/@kedro-python)
 
 ### News
+
 - [Kedro Community Update - April 2023](https://www.youtube.com/watch?v=ACwLKx8TEXc) - Kedro 0.18.7, new `OmegaConfigLoader`, experiment tracking in Kedro Viz, improvements in Databricks workflow, and more.
 - [Let's look at Kedro 0.17.0!](https://www.youtube.com/watch?v=AVX31IVbpoE)
 - [Kedro 0.16.0 was just Released!](https://www.youtube.com/watch?v=HxU6SL14jc4) - Release notes (features) of Kedro 0.16.0 explained.
