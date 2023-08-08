@@ -27,6 +27,7 @@
 - [Videos](#videos)
   - [Intros](#intros)
   - [Howtos](#howtos)
+  - [News](#news)
 
 
 ## Awards and highlights
@@ -234,7 +235,7 @@ For more:
 For more:
 - [@kedro-python on YouTube](https://www.youtube.com/@kedro-python)
 
-### News videos
+### News 
 
 - [Kedro Community Update - April 2023](https://www.youtube.com/watch?v=ACwLKx8TEXc) - Kedro 0.18.7, new `OmegaConfigLoader`, experiment tracking in Kedro Viz, improvements in Databricks workflow, and more.
 - [Let's look at Kedro 0.17.0!](https://www.youtube.com/watch?v=AVX31IVbpoE)
