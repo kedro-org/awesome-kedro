@@ -217,6 +217,7 @@ For more:
 
 ### Howtos
 
+- [@kedro-python on YouTube](https://www.youtube.com/@kedro-python)
 - [Refactor your Jupyter notebooks using Kedro](https://www.youtube.com/watch?v=qClSGY6B0r0)
 - [Introduction to Kedro training with Joel Schwarzmann](https://www.youtube.com/watch?v=NU7LmDZGb6E)
 - [Creating Shared Catalogs for your Kedro Projects on GitHub](https://www.youtube.com/watch?v=GwSj64Uqnhk)
@@ -232,12 +233,11 @@ For more:
 - [Kedro + AWS SageMaker TUTORIAL](https://www.youtube.com/watch?v=yXIdz4kNMc8)
 - [How to run Kedro pipelines on Azure ML Pipelines service? - MLOPS TUTORIAL - Marcin Zabłocki](https://www.youtube.com/watch?v=w_9RzYpGplY)
 
-For more:
-- [@kedro-python on YouTube](https://www.youtube.com/@kedro-python)
-
-### News 
+### Other 
 
 - [Kedro Community Update - April 2023](https://www.youtube.com/watch?v=ACwLKx8TEXc) - Kedro 0.18.7, new `OmegaConfigLoader`, experiment tracking in Kedro Viz, improvements in Databricks workflow, and more.
 - [Let's look at Kedro 0.17.0!](https://www.youtube.com/watch?v=AVX31IVbpoE)
 - [Kedro 0.16.0 was just Released!](https://www.youtube.com/watch?v=HxU6SL14jc4) - Release notes (features) of Kedro 0.16.0 explained.
+
+
 
