@@ -175,6 +175,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [Anomaly Detection Pipeline with Kedro](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) by [Kenneth Leung](https://github.com/kennethleungty), a project that demonstrates how to use Kedro for fraud detection on credit card transaction data using an Isolation Forest machine learning model.
 - [FontR](https://github.com/madziejm/project-fontr) by [Maciej M](https://github.com/madziejm), a project implementing Adobe's DeepFont research in Kedro to perform font recognition.
 - [Spaceship-Titanic using Kedro and MLflow](https://github.com/mauricioarauujo/spaceship-titanic) by [Mauricio Araujo](https://github.com/mauricioarauujo), Spaceship-Titanic Kaggle competition with a fully automated machine learning lifecycle using Kedro and MLflow.
+- [pipelinex_image_processing](https://github.com/Minyus/pipelinex_image_processing) by [Minyus](https://github.com/Minyus), a Kedro pipeline for image processing using OpenCV, Scikit-image, TensorFlow/Keras, and MLflow.
 
 ## [Kedro plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
@@ -204,6 +205,8 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-wings](https://pypi.org/project/kedro-wings/) - Automatically creates catalog entries to simplify Kedro pipeline writing.- [more-kedro](https://pypi.org/project/more-kedro/) - (Hook) library for on the fly typing and validation of parameter dictionaries and default value backed data loading.
 - [steel-toes](https://pypi.org/project/steel-toes/) - Prevent changing downstream catalog data on your teammates while developing in parallel.
 - [vineyard-kedro](https://pypi.org/project/vineyard-kedro) - Custom `DataSet` and `Runner` which enables sharing intermediate data between tasks in Kedro pipelines using Vineyard, a cloud-native in-memory object manager.
+- [kedro-tf-image](https://github.com/dermatologist/kedro-tf-image) - Kedro pipelines for preprocessing images using TensorFlow.
+- [kedro-graphql](https://pypi.org/project/kedro-graphql/) - A Kedro plugin for serving Kedro projects as GraphQL APIs.
 
 For more:
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
