@@ -176,6 +176,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [FontR](https://github.com/madziejm/project-fontr) by [Maciej M](https://github.com/madziejm), a project implementing Adobe's DeepFont research in Kedro to perform font recognition.
 - [Spaceship-Titanic using Kedro and MLflow](https://github.com/mauricioarauujo/spaceship-titanic) by [Mauricio Araujo](https://github.com/mauricioarauujo), Spaceship-Titanic Kaggle competition with a fully automated machine learning lifecycle using Kedro and MLflow.
 - [pipelinex_image_processing](https://github.com/Minyus/pipelinex_image_processing) by [Minyus](https://github.com/Minyus), a Kedro pipeline for image processing using OpenCV, Scikit-image, TensorFlow/Keras, and MLflow.
+- [Price Prediction Pipeline](https://github.com/Pedro-A-D-S/diamonds_price_prediction) by [Pedro Alves](https://github.com/Pedro-A-D-S), a data processing and data science pipeline for a ficticious Diamond enterprise using Scikit-Learn, Docker and Pandas.
 
 ## [Kedro plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
