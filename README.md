@@ -23,14 +23,16 @@ This is an open-source repository to collect together anything related to Kedro 
 
 ## Contents
 
-- [Awards and highlights](#awards-and-highlights)
-- [Blog posts](#blog-posts)
-- [Companies using Kedro](#companies-using-kedro)
-- [Example projects](#example-projects)
-- [Kedro plugins](#kedro-plugins)
-- [Videos](#videos)
-  - [Intros](#intros)
-  - [Howtos](#howtos)
+- [Awesome Kedro ](#awesome-kedro-)
+  - [Contents](#contents)
+  - [Awards and highlights](#awards-and-highlights)
+  - [Blog posts](#blog-posts)
+  - [Companies using Kedro](#companies-using-kedro)
+  - [Example projects](#example-projects)
+  - [Kedro plugins](#kedro-plugins)
+  - [Videos](#videos)
+    - [Intros](#intros)
+    - [Howtos](#howtos)
 
 ## Awards and highlights
 * Kedro won [Best Technical Tool or Framework for AI](https://awards.ai/the-awards/previous-awards/the-4th-ai-award-winners/) in the 2019 Awards AI competition 
@@ -177,6 +179,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [Spaceship-Titanic using Kedro and MLflow](https://github.com/mauricioarauujo/spaceship-titanic) by [Mauricio Araujo](https://github.com/mauricioarauujo), Spaceship-Titanic Kaggle competition with a fully automated machine learning lifecycle using Kedro and MLflow.
 - [pipelinex_image_processing](https://github.com/Minyus/pipelinex_image_processing) by [Minyus](https://github.com/Minyus), a Kedro pipeline for image processing using OpenCV, Scikit-image, TensorFlow/Keras, and MLflow.
 - [Price Prediction Pipeline](https://github.com/Pedro-A-D-S/diamonds_price_prediction) by [Pedro Alves](https://github.com/Pedro-A-D-S), a data processing and data science pipeline for a ficticious Diamond enterprise using Scikit-Learn, Docker and Pandas.
+- [Healthcare Data Analysis with Kedro](https://github.com/pablovdcf/TFM_HADO_Cares) by [Pablo Villar](https://github.com/pablovdcf), a end to end project through kedro pipelines (preprocessing, processing and data_science) with an app made in Streamlit where you can interact with the data.
 
 ## [Kedro plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
