@@ -200,7 +200,8 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
 - [kedro-partitioned](https://github.com/ProjetaAi/kedro-partitioned) - Extends the functionality on processing partitioned data.
 - [kedro-sagemaker](https://github.com/getindata/kedro-sagemaker) - Enables running a Kedro pipeline with Amazon SageMaker service.
-- [kedro-snowflake]([https://github.com/getindata/kedro-sagemaker](https://github.com/getindata/kedro-snowflake)) - Enables to run full Kedro pipelines in Snowflake.
+- [kedro-snowflake](https://github.com/getindata/kedro-snowflake) - Enables to run full Kedro pipelines in Snowflake.
+- [kedro-softfail-runner](https://github.com/noklam/kedro-softfail-runner) - Custom Kedro Runner to enable soft-failing pipeline.
 - [kedro-static-viz](https://github.com/WaylonWalker/kedro-static-viz) - Generates a static Kedro-Viz site (HTML, CSS, JS)
 - [kedro-viz](https://pypi.org/project/kedro-viz/) - Helps visualise Kedro data and analytics pipelines.
 - [kedro-vertexai](https://github.com/getindata/kedro-vertexai) - Enables running a Kedro pipeline with Vertex AI Pipelines service.
