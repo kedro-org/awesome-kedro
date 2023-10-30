@@ -178,6 +178,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [pipelinex_image_processing](https://github.com/Minyus/pipelinex_image_processing) by [Minyus](https://github.com/Minyus), a Kedro pipeline for image processing using OpenCV, Scikit-image, TensorFlow/Keras, and MLflow.
 - [Price Prediction Pipeline](https://github.com/Pedro-A-D-S/diamonds_price_prediction) by [Pedro Alves](https://github.com/Pedro-A-D-S), a data processing and data science pipeline for a ficticious Diamond enterprise using Scikit-Learn, Docker and Pandas.
 - [Healthcare Data Analysis with Kedro](https://github.com/pablovdcf/TFM_HADO_Cares) by [Pablo Villar](https://github.com/pablovdcf), a end to end project through kedro pipelines (preprocessing, processing and data_science) with an app made in Streamlit where you can interact with the data.
+- [Spaceflights price prediction as a service and Monte Carlo simulations](https://github.com/takikadiri/kedro-boot-examples) by [Takieddine Kadiri](https://github.com/takikadiri), a kedro projects that utilize [Kedro Boot](https://github.com/takikadiri/kedro-boot) to serve the spaceflights price prediction model through Rest API (FatApi) and Data App (Streamlit). It also provides an example of a Monte Carlo simulations for estimating Pi using [Kedro Boot](https://github.com/takikadiri/kedro-boot).
 
 ## [Kedro plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
@@ -210,6 +211,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [vineyard-kedro](https://pypi.org/project/vineyard-kedro) - Custom `DataSet` and `Runner` which enables sharing intermediate data between tasks in Kedro pipelines using Vineyard, a cloud-native in-memory object manager.
 - [kedro-tf-image](https://github.com/dermatologist/kedro-tf-image) - Kedro pipelines for preprocessing images using TensorFlow.
 - [kedro-graphql](https://pypi.org/project/kedro-graphql/) - A Kedro plugin for serving Kedro projects as GraphQL APIs.
+- [kedro-boot](https://github.com/takikadiri/kedro-boot) - Integrate you kedro project with any application
 
 For more:
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
