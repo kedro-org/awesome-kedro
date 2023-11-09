@@ -247,6 +247,7 @@ For more:
 - [Kedro Community Update - April 2023](https://www.youtube.com/watch?v=ACwLKx8TEXc) - Kedro 0.18.7, new `OmegaConfigLoader`, experiment tracking in Kedro Viz, improvements in Databricks workflow, and more.
 - [Let's look at Kedro 0.17.0!](https://www.youtube.com/watch?v=AVX31IVbpoE)
 - [Kedro 0.16.0 was just Released!](https://www.youtube.com/watch?v=HxU6SL14jc4) - Release notes (features) of Kedro 0.16.0 explained.
+- [Why transition from vanilla Jupyter notebooks to Kedro?](https://www.youtube.com/watch?v=JLTYNPoK7nw&ab_channel=PyConUS)
 
 
 
