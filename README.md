@@ -148,6 +148,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 [NHS AI Lab](https://nhsx.github.io/skunkworks/synthetic-data-pipeline),
 [Open Data Science LatAm](https://www.odesla.org/),
 [Prediqt](https://prediqt.co/),
+[Prospect](https://prospectsport.ai/),
 [QuantumBlack](https://medium.com/quantumblack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf),
 [ReSpo.Vision](https://neptune.ai/customers/respo-vision),
 [Retrieva](https://tech.retrieva.jp/entry/2020/07/28/181414),
@@ -176,6 +177,9 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [FontR](https://github.com/madziejm/project-fontr) by [Maciej M](https://github.com/madziejm), a project implementing Adobe's DeepFont research in Kedro to perform font recognition.
 - [Spaceship-Titanic using Kedro and MLflow](https://github.com/mauricioarauujo/spaceship-titanic) by [Mauricio Araujo](https://github.com/mauricioarauujo), Spaceship-Titanic Kaggle competition with a fully automated machine learning lifecycle using Kedro and MLflow.
 - [pipelinex_image_processing](https://github.com/Minyus/pipelinex_image_processing) by [Minyus](https://github.com/Minyus), a Kedro pipeline for image processing using OpenCV, Scikit-image, TensorFlow/Keras, and MLflow.
+- [Price Prediction Pipeline](https://github.com/Pedro-A-D-S/diamonds_price_prediction) by [Pedro Alves](https://github.com/Pedro-A-D-S), a data processing and data science pipeline for a ficticious Diamond enterprise using Scikit-Learn, Docker and Pandas.
+- [Healthcare Data Analysis with Kedro](https://github.com/pablovdcf/TFM_HADO_Cares) by [Pablo Villar](https://github.com/pablovdcf), a end to end project through kedro pipelines (preprocessing, processing and data_science) with an app made in Streamlit where you can interact with the data.
+- [Spaceflights price prediction as a service and Monte Carlo simulations](https://github.com/takikadiri/kedro-boot-examples) by [Takieddine Kadiri](https://github.com/takikadiri), a kedro projects that utilize [Kedro Boot](https://github.com/takikadiri/kedro-boot) to serve the spaceflights price prediction model through Rest API (FatApi) and Data App (Streamlit). It also provides an example of a Monte Carlo simulations for estimating Pi using [Kedro Boot](https://github.com/takikadiri/kedro-boot).
 
 ## [Kedro plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
@@ -198,7 +202,8 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
 - [kedro-partitioned](https://github.com/ProjetaAi/kedro-partitioned) - Extends the functionality on processing partitioned data.
 - [kedro-sagemaker](https://github.com/getindata/kedro-sagemaker) - Enables running a Kedro pipeline with Amazon SageMaker service.
-- [kedro-snowflake]([https://github.com/getindata/kedro-sagemaker](https://github.com/getindata/kedro-snowflake)) - Enables to run full Kedro pipelines in Snowflake.
+- [kedro-snowflake](https://github.com/getindata/kedro-snowflake) - Enables to run full Kedro pipelines in Snowflake.
+- [kedro-softfail-runner](https://github.com/noklam/kedro-softfail-runner) - Custom Kedro Runner to enable soft-failing pipeline.
 - [kedro-static-viz](https://github.com/WaylonWalker/kedro-static-viz) - Generates a static Kedro-Viz site (HTML, CSS, JS)
 - [kedro-viz](https://pypi.org/project/kedro-viz/) - Helps visualise Kedro data and analytics pipelines.
 - [kedro-vertexai](https://github.com/getindata/kedro-vertexai) - Enables running a Kedro pipeline with Vertex AI Pipelines service.
@@ -207,6 +212,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [vineyard-kedro](https://pypi.org/project/vineyard-kedro) - Custom `DataSet` and `Runner` which enables sharing intermediate data between tasks in Kedro pipelines using Vineyard, a cloud-native in-memory object manager.
 - [kedro-tf-image](https://github.com/dermatologist/kedro-tf-image) - Kedro pipelines for preprocessing images using TensorFlow.
 - [kedro-graphql](https://pypi.org/project/kedro-graphql/) - A Kedro plugin for serving Kedro projects as GraphQL APIs.
+- [kedro-boot](https://github.com/takikadiri/kedro-boot) - Integrate you kedro project with any application
 - [kedro-popmon](https://github.com/stephanecollot/kedro-popmon) - A Kedro plugin for integration of popmon capabilities. 
 
 For more:
@@ -243,6 +249,7 @@ For more:
 - [Kedro Community Update - April 2023](https://www.youtube.com/watch?v=ACwLKx8TEXc) - Kedro 0.18.7, new `OmegaConfigLoader`, experiment tracking in Kedro Viz, improvements in Databricks workflow, and more.
 - [Let's look at Kedro 0.17.0!](https://www.youtube.com/watch?v=AVX31IVbpoE)
 - [Kedro 0.16.0 was just Released!](https://www.youtube.com/watch?v=HxU6SL14jc4) - Release notes (features) of Kedro 0.16.0 explained.
+- [Why transition from vanilla Jupyter notebooks to Kedro?](https://www.youtube.com/watch?v=JLTYNPoK7nw&ab_channel=PyConUS)
 
 
 
