@@ -148,6 +148,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 [NHS AI Lab](https://nhsx.github.io/skunkworks/synthetic-data-pipeline),
 [Open Data Science LatAm](https://www.odesla.org/),
 [Prediqt](https://prediqt.co/),
+[Prospect](https://prospectsport.ai/),
 [QuantumBlack](https://medium.com/quantumblack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf),
 [ReSpo.Vision](https://neptune.ai/customers/respo-vision),
 [Retrieva](https://tech.retrieva.jp/entry/2020/07/28/181414),
