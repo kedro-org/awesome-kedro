@@ -23,14 +23,16 @@ This is an open-source repository to collect together anything related to Kedro 
 
 ## Contents
 
-- [Awards and highlights](#awards-and-highlights)
-- [Blog posts](#blog-posts)
-- [Companies using Kedro](#companies-using-kedro)
-- [Example projects](#example-projects)
-- [Kedro plugins](#kedro-plugins)
-- [Videos](#videos)
-  - [Intros](#intros)
-  - [Howtos](#howtos)
+- [Awesome Kedro ](#awesome-kedro-)
+  - [Contents](#contents)
+  - [Awards and highlights](#awards-and-highlights)
+  - [Blog posts](#blog-posts)
+  - [Companies using Kedro](#companies-using-kedro)
+  - [Example projects](#example-projects)
+  - [Kedro plugins](#kedro-plugins)
+  - [Videos](#videos)
+    - [Intros](#intros)
+    - [Howtos](#howtos)
 
 ## Awards and highlights
 * Kedro won [Best Technical Tool or Framework for AI](https://awards.ai/the-awards/previous-awards/the-4th-ai-award-winners/) in the 2019 Awards AI competition 
@@ -194,6 +196,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-datasets](https://github.com/kedro-org/kedro-plugins/tree/main/kedro-datasets) - A collection of Kedro data connectors.
 - [kedro-docker](https://pypi.org/project/kedro-docker/) - Makes it easy to package Kedro projects with Docker.
 - [kedro-dolt](https://www.dolthub.com/blog/2021-06-16-kedro-dolt-plugin/) - Allows you to expand the data versioning abilities of data scientists and engineers
+- [kedro-fast-api](https://bitbucket.org/indiciumtech/kedro_fast_api/src/master/) - kedro fast-api is a kedro plugin to easily create a fast-api for a kedro project for models' deployment.
 - [kedro-great](https://github.com/tamsanh/kedro-great) - The easiest way to integrate Kedro and Great Expectations.
 - [kedro-grpc-server](https://pypi.org/project/kedro-grpc-server/) - Creates a gRPC server for your kedro pipelines.
 - [kedro-kubeflow](https://github.com/getindata/kedro-kubeflow) - Lets you run and schedule pipelines on Kubernetes clusters using Kubeflow Pipelines.
