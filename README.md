@@ -203,7 +203,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-mlflow](https://pypi.org/project/kedro-mlflow/) - Allows usage of MLFlow in Kedro projects.
 - [kedro-neptune](https://github.com/neptune-ai/kedro-neptune) - Integration of Kedro with Neptune.ai.
 - [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
-- [kedro-partitioned](https://github.com/ProjetaAi/kedro-partitioned) - Extends the functionality on processing partitioned data.
+- [kedro-partitioned](https://github.com/kedro-partitioned/kedro-partitioned) - Extends the functionality on processing partitioned data.
 - [kedro-sagemaker](https://github.com/getindata/kedro-sagemaker) - Enables running a Kedro pipeline with Amazon SageMaker service.
 - [kedro-snowflake](https://github.com/getindata/kedro-snowflake) - Enables to run full Kedro pipelines in Snowflake.
 - [kedro-softfail-runner](https://github.com/noklam/kedro-softfail-runner) - Custom Kedro Runner to enable soft-failing pipeline.
