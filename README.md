@@ -202,7 +202,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-kubeflow](https://github.com/getindata/kedro-kubeflow) - Lets you run and schedule pipelines on Kubernetes clusters using Kubeflow Pipelines.
 - [kedro-mlflow](https://pypi.org/project/kedro-mlflow/) - Allows usage of MLFlow in Kedro projects.
 - [kedro-neptune](https://github.com/neptune-ai/kedro-neptune) - Integration of Kedro with Neptune.ai.
-- [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog.
+- [kedro-pandas-profiling](https://pypi.org/project/kedro-pandas-profiling/) - "Profiles" data in the catalog. (⚠️public archive)
 - [kedro-partitioned](https://github.com/kedro-partitioned/kedro-partitioned) - Extends the functionality on processing partitioned data.
 - [kedro-sagemaker](https://github.com/getindata/kedro-sagemaker) - Enables running a Kedro pipeline with Amazon SageMaker service.
 - [kedro-snowflake](https://github.com/getindata/kedro-snowflake) - Enables to run full Kedro pipelines in Snowflake.
