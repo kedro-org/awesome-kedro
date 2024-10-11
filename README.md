@@ -218,6 +218,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 - [kedro-graphql](https://pypi.org/project/kedro-graphql/) - A Kedro plugin for serving Kedro projects as GraphQL APIs.
 - [kedro-boot](https://github.com/takikadiri/kedro-boot) - Integrate you kedro project with any application
 - [kedro-popmon](https://github.com/stephanecollot/kedro-popmon) - A Kedro plugin for integration of popmon capabilities. 
+- [kedro-expectations](https://gitlab.com/anacision/kedro-expectations) - Adding Data Validation to Kedro pipelines with up-to-date Great Expectations version.
 
 For more:
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
