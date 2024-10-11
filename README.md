@@ -125,6 +125,7 @@ There are Kedro users across the world, who work at start-ups, major enterprises
 [Advanced Programming Solutions SL](https://www.linkedin.com/feed/update/urn:li:activity:6863494681372721152/),
 [AI Singapore](https://makerspace.aisingapore.org/2020/08/leveraging-kedro-in-100e/),
 [AMAI GmbH](https://www.am.ai/),
+[Anacision GmbH](https://anacision.de/),
 [Augment Partners](https://www.linkedin.com/posts/augment-partners_kedro-cheat-sheet-by-augment-activity-6858927624631283712-Ivqk),
 [AXA UK](https://www.axa.co.uk/),
 [Belfius](https://www.linkedin.com/posts/vangansen_mlops-machinelearning-kedro-activity-6772379995953238016-JUmo),
