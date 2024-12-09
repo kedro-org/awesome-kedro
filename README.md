@@ -37,7 +37,7 @@ This is an open-source repository to collect together anything related to Kedro 
 ## Awards and highlights
 * Kedro won [Best Technical Tool or Framework for AI](https://awards.ai/the-awards/previous-awards/the-4th-ai-award-winners/) in the 2019 Awards AI competition 
 * Kedro documentation won a merit award in the [UK Technical Communication Awards 2020](https://uktcawards.com/announcing-the-award-winners-for-2020/), and was overall winner in the [UK Technical Communication Awards 2023](https://istc.org.uk/homepage/professional-development-and-recognition/uk-technical-communication-awards/award-winners-2023/).
-* The Kedro framework is listed on the 2020 [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/languages-and-frameworks/kedro) and the 2020 [Data & AI Landscape](https://mattturck.com/data2020/). 
+* The Kedro framework is listed in the "Assess" stage of the 2020 [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/languages-and-frameworks/kedro) and was [moved to a higher category of adoption, "Trial" in 2024](https://www.thoughtworks.com/radar/languages-and-frameworks/kedro).
 * Kedro has received an [honorable mention in the User Experience category in Fast Company’s 2022 Innovation by Design Awards](https://www.fastcompany.com/90772252/user-experience-innovation-by-design-2022).
 
 ## Blog posts
